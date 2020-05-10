@@ -25,15 +25,51 @@ OFF    o f
 % MIKKU 
 MIC    m i k u
 
-% DIGIT
-FIVE       f ay v
-FOUR       f ao r
-NINE       n ay n
-EIGHT      ey t
-OH         ow
-ONE        w ah n
-SEVEN      s eh v ax n
-SIX        s ih k s
-THREE      th r iy
-TWO        t uw
-ZERO(2)    z ih r ow
+% HELLO
+HELLO        hh ah l ow
+HELLO      hh eh l ow
+
+%ACTION
+MUSIC        m y uw z ih k
+PLAYER         p l ey er
+HOME           hh ow m
+SETTINGS       s eh t ih ng z
+RADIO          r ey d iy ow
+VIDEO          v ih d iy ow
+MEDIA          m iy d iy ah
+PHONE          f ow n
+BROWSER        b r aw z er
+NAVIGATION    n ae v ah g ey sh ah n
+DRIVER        d r ay v er
+ASSISTANCE    ah s ih s t ah n s
+TELEVISION    t eh l ah v ih zh ah n
+ENTERTAINMENT    eh n t er t ey n m ah n t
+
+% MUTE
+MUTE        m y uw t
+
+% STOP
+STOP        s t aa p
+
+% GOTO
+GOTO       g ow t ow
+
+%SHUFFLEACTION
+ON        aa n
+OFF        ao f
+
+% PLAY
+PLAY        p l ey
+
+% EY
+EY         ey
+
+% NEXT
+NEXT        n eh k s t
+
+% PREVIOUS
+PREVIOUS    p r iy v iy ah s   
+
+% PAUSE
+PAUSE        p ao z
+
