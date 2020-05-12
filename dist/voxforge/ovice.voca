@@ -5,25 +5,32 @@
 </s>        sil
 
 % HEY
-HEY    h ey
+HEY    hh ey
 
 % OVICE
-OVICE    o v i s
+OVICE	AO V IY S
+OVICE	AO V IH S
+
 
 % MIC_ENG
-MIC    m i k
+MIC	M IY K
+MIC	M AY K
 
 % ON_ENG
-ON    a n
+ON	AA N
+ON	AO N
 
 % ON_ENGL 
-ON    o n
+ON    ao n
 
 % OFF 
-OFF    o f
+OFF	AO F
+OFF	AA F
 
 % MIKKU 
-MIC    m i k u
+MIC    m ay k u
+MIC    m iy k u
+MIC    m ih k u
 
 % HELLO
 HELLO        hh ah l ow
@@ -72,4 +79,3 @@ PREVIOUS    p r iy v iy ah s
 
 % PAUSE
 PAUSE        p ao z
-

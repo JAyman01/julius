@@ -1,12 +1,18 @@
 0	[<s>]	sil
 1	[</s>]	sil
-2	[HEY]	h ey
-3	[OVICE]	o v i s
-4	[MIC]	m i k
-5	[ON]	a n
-6	[ON]	o n
-7	[OFF]	o f
-8	[MIC]	m i k u
+2	[HEY]	hh ey
+3	[OVICE]	AO V IY S
+3	[OVICE]	AO V IH S
+4	[MIC]	M IY K
+4	[MIC]	M AY K
+5	[ON]	AA N
+5	[ON]	AO N
+6	[ON]	ao n
+7	[OFF]	AO F
+7	[OFF]	AA F
+8	[MIC]	m ay k u
+8	[MIC]	m iy k u
+8	[MIC]	m ih k u
 9	[HELLO]	hh ah l ow
 9	[HELLO]	hh eh l ow
 10	[MUSIC]	m y uw z ih k
